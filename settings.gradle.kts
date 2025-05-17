@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Android-starter"
+rootProject.name = "StarryTune"
 include(":app")
  

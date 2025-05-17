@@ -1,4 +1,4 @@
-package com.mcallzbl.android_starter
+package com.mcallzbl.starrytune
 
 import org.junit.Test
 

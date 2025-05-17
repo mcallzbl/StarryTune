@@ -1,4 +1,4 @@
-package com.mcallzbl.android_starter.base
+package com.mcallzbl.starrytune.base
 
 import android.os.Build
 import android.os.Bundle

@@ -1,4 +1,4 @@
-package com.mcallzbl.android_starter.ui.theme
+package com.mcallzbl.starrytune.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
